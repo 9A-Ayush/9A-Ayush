@@ -1,3 +1,4 @@
+[README_Ayush_Kumar.md](https://github.com/user-attachments/files/19978033/README_Ayush_Kumar.md)
 # Hey there! 👋 I'm Ayush Kumar  
 
 🚀 Computer Engineering student who loves coding, designing, and creating cool stuff!  
