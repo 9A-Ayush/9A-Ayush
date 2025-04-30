@@ -8,9 +8,6 @@ I'm always up for learning new technologies and working on interesting projects.
 - Web: HTML, CSS, React  
 - Frameworks & Tools: Flutter, MySQL, MongoDB, GitHub, VS Code  
 
-🛠 **Recent Projects:**  
-✔️ Built a **Car Service and Repair System** using React.js & MongoDB  
-✔️ Created a **To-Do List App** during my internship at OctaNet  
 
 🎮 **Fun fact:** When I’m not coding, I’m probably playing video games or editing videos!  
 
