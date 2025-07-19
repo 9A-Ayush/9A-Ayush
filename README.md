@@ -4,8 +4,8 @@
 I'm always up for learning new technologies and working on interesting projects.  
 
 💻 **Tech Stack:**  
-- Languages: C, Java, Basic of Python, Dart, JavaScript  
-- Web: HTML, CSS, React, PHP, WordPress  
+- Languages: C, Java, Basic Python, Dart, JavaScript  
+- Web: HTML, CSS, React,
 - Frameworks & Tools: Flutter, MySQL, MongoDB, GitHub, VS Code  
 
 
