@@ -46,6 +46,8 @@ When I’m not coding, I’m either gaming 🎮, editing videos 🎥, or making 
 ---
 
 ## ☕ Support My Work  
-If you like what I do, [buy me a coffee](https://buymeacoffee.com/9a.ayush) ❤️  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9a.ayush)
+ 
 
 _"Code. Secure. Innovate."_  
